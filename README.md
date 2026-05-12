@@ -58,11 +58,6 @@ Convertirme en un **Backend Developer Senior**, capaz de diseñar e implementar 
 
 ---
 
-## 📌 Proyectos Destacados
-
-> *Próximamente...* (aquí pondré mis mejores trabajos)
-
----
 
 ## 📫 Contacto
 
