@@ -72,15 +72,5 @@ Convertirme en un **Backend Developer Senior**, capaz de diseñar e implementar 
 
 ---
 
-## 📊 Estadísticas
-
-> ⚠️ *Las estadísticas se actualizan automáticamente cuando subes código a GitHub.*
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J05U307&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J05U307&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
 
 <p align="center"><i>📌 Abierto a colaboraciones, proyectos interesantes y oportunidades de aprendizaje.</i></p>
