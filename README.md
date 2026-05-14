@@ -1,4 +1,4 @@
-# 💻 Josue Cusquisiban
+# 👽 Josue Cusquisiban
 
 [![GitHub followers](https://img.shields.io/github/followers/J05U307?label=Follow&style=social)](https://github.com/J05U307)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Josue%20Cusquisiban-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/josue-luis-cusquisiban-alcantara-95b299361)
