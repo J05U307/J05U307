@@ -61,11 +61,30 @@ Convertirme en un **Backend Developer Senior**, capaz de diseñar e implementar 
 
 ## 📫 Contacto
 
-📧 **Email:** [josuecusquisiban.26@gmail.com](mailto:josuecusquisiban.26@gmail.com)  
-🐙 **GitHub:** [github.com/J05U307](https://github.com/J05U307)  
-💼 **LinkedIn:** [linkedin.com/in/josue-luis-cusquisiban-alcantara-95b299361](https://www.linkedin.com/in/josue-luis-cusquisiban-alcantara-95b299361)
+<p align="left">
+  📧 <strong>Email:</strong> 
+  <a href="mailto:josuecusquisiban.26@gmail.com">
+    josuecusquisiban.26@gmail.com
+  </a>
+  <br>
 
----
+  🐙 <strong>GitHub:</strong> 
+  <a href="https://github.com/J05U307">
+    github.com/J05U307
+  </a>
+  <br>
+
+  💼 <strong>LinkedIn:</strong> 
+  <a href="https://www.linkedin.com/in/josue-luis-cusquisiban-alcantara-95b299361">
+    Ver perfil
+  </a>
+  <br>
+
+  🌐 <strong>Portafolio:</strong> 
+  <a href="https://josuecusquisiban.vercel.app/">
+    josuecusquisiban.vercel.app
+  </a>
+</p>
 
 
 <p align="center"><i>📌 Abierto a colaboraciones, proyectos interesantes y oportunidades de aprendizaje.</i></p>
