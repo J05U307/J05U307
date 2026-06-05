@@ -1,4 +1,5 @@
-# 👽 Josue 
+# <img width="40" height="40" src="https://img.icons8.com/color/48/linux--v1.png" style="vertical-align: middle;"/> Josue
+
 [![GitHub followers](https://img.shields.io/github/followers/J05U307?label=Follow&style=social)](https://github.com/J05U307)
 
 Backend Developer especializado en **Java** y **Spring Boot**.  
