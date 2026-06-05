@@ -6,7 +6,7 @@ Backend Developer especializado en **Java** y **Spring Boot**.
 Estudiante de Ingeniería de Sistemas apasionado por construir aplicaciones robustas y escalables con código limpio.
 
 ---
-![GitHub Streak](https://streak-stats.demolab.com?user=J05U307&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=J05U307&hide_border=true&theme=dark)
 
 ---
  
