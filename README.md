@@ -6,8 +6,8 @@ Backend Developer especializado en **Java** y **Spring Boot**.
 Estudiante de Ingeniería de Sistemas apasionado por construir aplicaciones robustas y escalables con código limpio.
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=J05U307&hide_border=true)
 
-![Josue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J05U307&show_icons=true&hide_border=true&count_private=true&theme=dark)
 ---
  
 🌐 [josuecusquisiban.vercel.app](https://josuecusquisiban.vercel.app/)
