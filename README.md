@@ -7,8 +7,7 @@ Estudiante de Ingeniería de Sistemas apasionado por construir aplicaciones robu
 
 ---
 
-![Josue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J05U307&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default)
-
+![Josue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J05U307&show_icons=true&hide_border=true&count_private=true&theme=dark)
 ---
  
 🌐 [josuecusquisiban.vercel.app](https://josuecusquisiban.vercel.app/)
