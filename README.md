@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=J05U307&hide_border=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=J05U307&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 </div>
 
