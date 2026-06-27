@@ -4,10 +4,15 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=J05U307&theme=dark&hide_border=true&locale=es"
-         width="385"/>
+    <img 
+      src="https://streak-stats.demolab.com?user=J05U307&theme=dark&hide_border=true&locale=es"
+      width="385"
+    />
   </a>
 </div>
 
 ---
-🌐 [josuecusquisiban.vercel.app](https://josuecusquisiban.vercel.app/)
+
+<p align="center">
+  🌐 <a href="https://josuecusquisiban.vercel.app/">josuecusquisiban.vercel.app</a>
+</p>
